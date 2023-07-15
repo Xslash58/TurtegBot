@@ -27,3 +27,5 @@ Here're some of the project's features:
 <p>2. Type #join in the chat</p>
 
 <p>3. You're all set! If you wish to remove the bot from your channel type #part</p>
+
+<h3>TurtegBot will be open-source soon!</h3>
