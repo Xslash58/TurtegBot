@@ -4,6 +4,12 @@
 
 <p align="center" id="description">Twitch chatbot inspired by <a href="https://poros.lol">dontaddTHISbot</a>.</p>
 
+<div align="center">
+
+[![Crowdin](https://badges.crowdin.net/turtegbot/localized.svg)](https://crowdin.com/project/turtegbot)
+[![](https://dcbadge.vercel.app/api/server/tdU6SRUMpk?style=flat)](https://discord.gg/tdU6SRUMpk)
+
+</div>
   
   
 <h2>🧐 Features</h2>
