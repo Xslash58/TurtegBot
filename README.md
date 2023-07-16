@@ -36,6 +36,8 @@ Here're some of the project's features:
 
 <p>4. You're all set! If you wish to remove the bot from your channel type #part</p>
 
+<p>Commands are available on <a href="https://github.com/Xslash58/TurtegBot/wiki">wiki</a></p>
+
 <h2>✨ Contribution</h2>
 
 <p>Translations: <a href="https://crowdin.com/project/turtegbot">crowdin</a></p>
