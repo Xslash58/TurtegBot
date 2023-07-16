@@ -32,6 +32,12 @@ Here're some of the project's features:
 
 <p>2. Type #join in the chat</p>
 
-<p>3. You're all set! If you wish to remove the bot from your channel type #part</p>
+<p>3. Go back to your chat and VIP/mod the bot</p>
+
+<p>4. You're all set! If you wish to remove the bot from your channel type #part</p>
+
+<h2>✨ Contribution</h2>
+
+<p>Translations: <a href="https://crowdin.com/project/turtegbot">crowdin</a></p>
 
 <h3>TurtegBot will be open-source soon!</h3>
