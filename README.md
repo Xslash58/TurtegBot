@@ -19,12 +19,13 @@ Here're some of the project's features:
 *   Global economy (turtles)
 *   Moderation utilities
 *  Community Translations (<a href="https://crowdin.com/project/turtegbot">crowdin</a>)
+*  AFK
 
 <h2>🛠️ TurtegBot is in heavy development. Here are some of the planned features:</h2>
 
 *  More moderation commands
 *  More economy commands (give, gamba)
-*  AFK commands (something like supibot)
+*  More AFK commands (something like supibot)
 *  Per-channel economy (?)
 
 <h2>🛠️ How to add:</h2>
