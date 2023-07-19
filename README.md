@@ -30,7 +30,7 @@ Here're some of the project's features:
 
 <h2>🛠️ How to add:</h2>
 
-<p>1. Got to <a href="https://twitch.tv/turtegbot">twitch.tv/turtegbot</a></p>
+<p>1. Go to <a href="https://twitch.tv/turtegbot">twitch.tv/turtegbot</a></p>
 
 <p>2. Type #join in the chat</p>
 
