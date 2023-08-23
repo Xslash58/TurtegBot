@@ -14,7 +14,7 @@
   
 <h2>🧐 Features</h2>
 
-Here're some of the project's features:
+Here are some of the project's features:
 
 *   Global economy (turtles)
 *   Moderation utilities
@@ -44,4 +44,4 @@ Here're some of the project's features:
 
 <p>Translations: <a href="https://crowdin.com/project/turtegbot">crowdin</a></p>
 
-<h3>TurtegBot will be open-source soon!</h3>
+<h3>TurtegBot source is temporarily private!</h3>
