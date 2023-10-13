@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://cdn.7tv.app/emote/61474a7845d00846a86eb11e/4x.webp" alt="project-image"></p>
 
-<p align="center" id="description">Twitch chatbot inspired by <a href="https://poros.lol">dontaddTHISbot</a>.</p>
+<p align="center" id="description">General utility and fun Twitch chatbot<br>inspired by <a href="https://poros.lol">dontaddTHISbot</a> and <a href="https://github.com/Supinic/supibot">supibot</a>.</p>
 
 <div align="center">
 
@@ -10,23 +10,6 @@
 [![](https://dcbadge.vercel.app/api/server/tdU6SRUMpk?style=flat)](https://discord.gg/tdU6SRUMpk)
 
 </div>
-  
-  
-<h2>🧐 Features</h2>
-
-Here are some of the project's features:
-
-*   Global economy (turtles)
-*   Moderation utilities
-*  Community Translations (<a href="https://crowdin.com/project/turtegbot">crowdin</a>)
-*  AFK
-
-<h2>🛠️ TurtegBot is in heavy development. Here are some of the planned features:</h2>
-
-*  More moderation commands
-*  More economy commands (give, gamba)
-*  More AFK commands (something like supibot)
-*  Per-channel economy (?)
 
 <h2>🛠️ How to add:</h2>
 
