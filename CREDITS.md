@@ -13,7 +13,7 @@
 - **snowycoldd** — For 'rob' command, ideas, general tweaks and help with the bot.
 - **poduszkowiec_** — For ideas and general help with the bot.
 - **Kejr0l** — For ideas.
-- **jollysfx** — For ideas.
+- **JollyLegend** — For ideas.
 
 ---
 
